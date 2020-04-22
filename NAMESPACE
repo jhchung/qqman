@@ -2,8 +2,10 @@
 
 export(manhattan)
 export(qq)
+export(qq_sample)
 import(graphics)
 import(stats)
 import(utils)
+import(wrswoR)
 importFrom(calibrate,textxy)
 importFrom(stats,ppoints)
